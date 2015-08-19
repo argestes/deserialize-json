@@ -9,7 +9,7 @@
     "atom-workspace": "deserialize-json:deserialize"
   },
   "activationEvents" : ["deserialize-json:deserialize"],
-  "repository": "https://github.com/atom/deserialize-json",
+  "repository": "https://github.com/argestes/deserialize-json",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
